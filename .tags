@@ -1,0 +1,7 @@
+CreateCatRentalRequests	/Users/appacademy/W4D2/ninetynine_cats/db/migrate/20180307002500_create_cat_rental_requests.rb	/^class CreateCatRentalRequests < ActiveRecord::Migration[5.1]$/;"	class	line:1
+change	/Users/appacademy/W4D2/ninetynine_cats/db/migrate/20180307002500_create_cat_rental_requests.rb	/^  def change$/;"	method	line:2	class:CreateCatRentalRequests
+Cat	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat.rb	/^class Cat < ApplicationRecord$/;"	class	line:15
+age	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat.rb	/^  def age$/;"	method	line:27	class:Cat
+CatRentalRequest	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat_rental_request.rb	/^class CatRentalRequest < ApplicationRecord$/;"	class	line:14
+overlapping_requests	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat_rental_request.rb	/^    def overlapping_requests$/;"	method	line:23	class:CatRentalRequest
+overlapping_approved_requests	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat_rental_request.rb	/^    def overlapping_approved_requests$/;"	method	line:31	class:CatRentalRequest

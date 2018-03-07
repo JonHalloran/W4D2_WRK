@@ -1,0 +1,9 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CatRentalRequest	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat_rental_request.rb	/^class CatRentalRequest < ApplicationRecord$/;"	class	line:14
+overlapping_requests	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat_rental_request.rb	/^    def overlapping_requests$/;"	method	line:23	class:CatRentalRequest
+overlapping_approved_requests	/Users/appacademy/W4D2/ninetynine_cats/app/models/cat_rental_request.rb	/^    def overlapping_approved_requests$/;"	method	line:31	class:CatRentalRequest
